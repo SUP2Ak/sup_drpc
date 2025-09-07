@@ -2,6 +2,7 @@
 name = "sup_drpc"
 version = "0.1.0"
 edition = "2021"
+resolver = "2"
 
 [dependencies]
 discord-rich-presence = "1.0.0"
